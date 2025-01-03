@@ -12,4 +12,4 @@
 
 ## 🔗 깃허브 주소
 
-[GitHub Repository](https://github.com/username/project-repo)
+[GitHub Repository](https://github.com/I-Send-The-P)
