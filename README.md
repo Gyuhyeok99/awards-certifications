@@ -1,1 +1,11 @@
-# awards-certifications
+# Awards-Certifications (최신순)
+
+1. [2024 XR Device Contents Make-a-thon](./2024-12-xr-device-contents-make-a-thon-인증서)
+2. [2024 SW AI 활용 스타트업 팀빌딩 프로젝트](./2024-12-sw-ai-활용-스타트업-팀빌딩-프로젝트-인증서)
+3. [2024 IOSS Certification](./2024-12-inha-ioss-공로상)
+4. [2024 INHA Capstone Design](./2024-12-inha-capstone-design-최우수상)
+5. [2024 Venture Startup Academy Hackathon](./2024-08-venture-startup-academy-hackathon-인증서)
+6. [2024 INHA SW Academy](./2024-06-inha-swacademy-우수상)
+7. [2024 UMC 5th Seoul Hackathon 대상](./2024-01-umc-5th-seoul-hackthon-대상)
+8. [2023 INHA GDSC Project Marathon 대상](./2023-11-inha-gdsc-project-marathon-대상)
+9. [2023 INHA Social Impact Hackathon 우수상](./2023-08-inha-social-impact-hackthon-우수상)
